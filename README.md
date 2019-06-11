@@ -1,6 +1,4 @@
-# FrontEnd Task - Bank of Hodlers
-
-Deployed at: https://tile-game.netlify.com/
+# Deployed at: https://tile-game.netlify.com/
 
 
 to run locally download .zip or in terminal execute the following:
