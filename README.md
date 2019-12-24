@@ -3,7 +3,7 @@
 
 to run locally download .zip or in terminal execute the following:
 
-`git clone  https://github.com/DeepGunner/trivia.git`
+`git clone  https://github.com/DeepGunner/tilegame.git`
 
 Install Dependencies: `npm i`.
 
